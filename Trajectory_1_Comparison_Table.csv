@@ -1,0 +1,4 @@
+,joint,target,rise_baseline,settle_baseline,overshoot_baseline,sse_baseline,rise_trial,settle_trial,overshoot_trial,sse_trial,rise_bapid,settle_bapid,overshoot_bapid,sse_bapid
+0,joint1,1,8.96,9.135,0.017,5.257,4.545,22.515,5.673,0,7.455,7.63,0.017,3.697
+1,joint2,0.8,9.955,10.13,0.004,4.005,4.545,22.515,5.661,0,8.45,8.625,0.012,3.042
+2,joint3,-0.6,9.955,10.585,0.002,2.253,4.545,22.515,-5.625,0,8.45,13,0.016,1.967

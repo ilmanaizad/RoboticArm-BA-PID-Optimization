@@ -1,0 +1,4 @@
+label,mode,window_mode,joint,target,rise_time,settling_time,overshoot,sse,window_start,window_end
+Trajectory 1 | Trial error5,stagger,fixed,joint1,1,10.625,10.8,0.014854348,6.922466478,0,12
+Trajectory 1 | Trial error5,stagger,fixed,joint2,0.8,11.62,11.795,0.004353351,5.07036508,5,18
+Trajectory 1 | Trial error5,stagger,fixed,joint3,-0.6,11.62,12.29,0.015107392,2.852018617,11,24

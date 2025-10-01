@@ -1,0 +1,4 @@
+label,mode,window_mode,joint,target,rise_time,settling_time,overshoot,sse,window_start,window_end
+Trajectory 1 | Baseline2,stagger,fixed,joint1,1,8.96,9.135,0.017113248,5.257477855,0,12
+Trajectory 1 | Baseline2,stagger,fixed,joint2,0.8,9.955,10.13,0.004353182,4.004763051,5,18
+Trajectory 1 | Baseline2,stagger,fixed,joint3,-0.6,9.955,10.585,0.001592939,2.252578605,11,24
