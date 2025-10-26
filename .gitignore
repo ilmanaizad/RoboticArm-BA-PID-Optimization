@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- ROS2 Specific Ignores ---
+# Build and installation artifacts
+build/
+install/
+log/
+
+# ROS2 launch/log/temp files
+*.launch.pyc
+*.test.pyc
+*.db3
+
+# Python cache (redundant, but safe)
+__pycache__/
+
+# Simulation data and temporary files
+*.bag
+*.bag.active
+*.csv
+*.mp4
+*.avi
+*.zip
+*.tar.gz
+
+# VS Code, IDE configs
+.vscode/
+.idea/
+
+# Environment or hidden files
+.env
+.DS_Store
+
